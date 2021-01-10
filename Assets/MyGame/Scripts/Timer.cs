@@ -5,11 +5,12 @@ using TMPro;
 public class Timer : MonoBehaviour
 {
     public TextMeshProUGUI timer;
+
     private float timeInSec;
 
     void Start()
     {
-        timeInSec = 120f;
+        timeInSec = 60f;
     }
 
     void Update()
