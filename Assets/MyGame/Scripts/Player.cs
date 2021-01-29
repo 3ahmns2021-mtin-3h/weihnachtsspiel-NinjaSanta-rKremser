@@ -11,6 +11,7 @@ public class Player : MonoBehaviour
     public TextMeshProUGUI scoreDisplay;
     public int speed;
     public GameOverScreen GameOverScreen;
+    public GameObject timerDeactivation;
 
     // Start is called before the first frame update
     void Start()
@@ -54,6 +55,8 @@ public class Player : MonoBehaviour
         if (collision.name.Contains("GameOverCollider"))
         {
             GameOver();
+            timerDeactivation.SetActive(false);
+
 
         }
         

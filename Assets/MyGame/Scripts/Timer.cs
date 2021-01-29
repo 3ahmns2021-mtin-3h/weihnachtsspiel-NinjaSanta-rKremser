@@ -1,6 +1,7 @@
 ﻿using UnityEngine;
 using UnityEngine.UI;
 using TMPro;
+using UnityEngine.SceneManagement;
 
 public class Timer : MonoBehaviour
 {
@@ -10,7 +11,7 @@ public class Timer : MonoBehaviour
 
     void Start()
     {
-        timeInSec = 60f;
+        timeInSec = 10f;
     }
 
     void Update()
@@ -26,7 +27,9 @@ public class Timer : MonoBehaviour
         }
         else
         {
-            Debug.Log("Stop Game");
+            SceneManager.LoadScene("TimerRunOut");
         }
+
+     
     }
 }
