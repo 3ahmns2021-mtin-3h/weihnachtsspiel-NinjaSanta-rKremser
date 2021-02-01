@@ -1,29 +1,30 @@
 # weihnachtsspiel-NinjaSanta-rKremser
 
 ### Project description: 
-Introduction/Project summary 
+The Ninja-Santa has to collect the presents and dodge the coalpieces to save christmas.
 
 ### Development platform: 
-(OS, Unity Version, Visual Studio Version, used SDKs)
 MacOS, Unity 2020.1.5f1, Visual Studio 2019, -
 
 ### Target platform: 
-WebGL
+WebGL ref, res 960x600, screenindependent
 
 ### Visuals: 
-Screenshots (concept and experience), Video
+-
 
-### Necessary setup/execution steps: 
-Installation process, e.g. step by step instructions that I can run the project after cloning it
+### Necessary setup/execution steps:
+Add the Unity-Project, using UnityHub! Open the project!
 
 ### Third party material: 
-(if used Fonts, Sounds, Music, Graphics, Materials, Code etc.)
+-
 
 ### Project state: 
-incl. progress in percent
+60% done
 
 ### Limitations: 
+-
 
 ### Lessons Learned: 
+using C#, using Unity's graphical interferface
 
 Copyright by rKremser :)
