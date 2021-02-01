@@ -11,7 +11,7 @@ public class Timer : MonoBehaviour
 
     void Start()
     {
-        timeInSec = 10f;
+        timeInSec = 60f;
     }
 
     void Update()
