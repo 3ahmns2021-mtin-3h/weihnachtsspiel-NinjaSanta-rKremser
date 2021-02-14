@@ -33,6 +33,6 @@ public class SpawnPresents : MonoBehaviour
         clones.GetComponent<Transform>().SetParent(parentSpawnGo.GetComponent<Transform>(), false);
         clones.GetComponent<Transform>().localPosition = new Vector3(Random.Range(-400, 400), 0, 0);
         clones.GetComponent<Transform>().localRotation = Quaternion.identity;
-        clones.GetComponent<Transform>().localScale = new Vector3(0.5f, 0.5f, 0.5f);
+        clones.GetComponent<Transform>().localScale = new Vector3(1.0f, 1.0f, 1.0f);
     }
 }
