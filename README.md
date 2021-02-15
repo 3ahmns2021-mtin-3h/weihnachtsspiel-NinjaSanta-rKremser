@@ -10,7 +10,11 @@ MacOS, Unity 2020.1.5f1, Visual Studio 2019, -
 WebGL ref, res 960x600, screenindependent
 
 ### Visuals: 
--
+<div>
+<img src="./ScreenShots/Gameplay.png" width="250">
+<img src="./ScreenShots/GameOver01.png" width="250">
+<img src="./ScreenShots/GameOver02.png" width="250">
+</div>
 
 ### Necessary setup/execution steps:
 Add the Unity-Project, using UnityHub! Open the project!
