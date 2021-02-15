@@ -26,9 +26,9 @@ Add the Unity-Project, using UnityHub! Open the project!
 80% done
 
 ### Limitations: 
--
+no graphics for Restart-Button
 
 ### Lessons Learned: 
-using C#, using Unity's graphical interferface
+using C#, using Unity's graphical interferface, if-statements, variables, basic 2D character-movement, object spawning & destroying
 
 Copyright by rKremser :)
