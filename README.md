@@ -19,7 +19,7 @@ Add the Unity-Project, using UnityHub! Open the project!
 -
 
 ### Project state: 
-100% done
+80% done
 
 ### Limitations: 
 -
