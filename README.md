@@ -9,7 +9,7 @@ MacOS, Unity 2020.1.5f1, Visual Studio 2019, -
 ### Target platform: 
 WebGL ref, res 960x600, screenindependent
 
-- ## Necessary setup/execution steps:
+- #### Necessary setup/execution steps:
   Add the Unity-Project, using UnityHub! Open the project!
 
 
