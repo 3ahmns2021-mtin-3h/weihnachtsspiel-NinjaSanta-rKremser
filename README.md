@@ -25,7 +25,7 @@ WebGL ref, res 960x600, screenindependent
 -
 
 ### Project state: 
-80% done
+100% done
 
 ### Limitations: 
 no graphics for Restart-Button
